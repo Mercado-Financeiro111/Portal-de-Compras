@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Compras Florestais",
+  "description": "Sistema completo para controle e sequenciamento do fluxo de compras em empresas de transportes e extração de madeira, com controle de cotações, aprovações, condições de pagamento, conferência de notas fiscais e relatórios de fluxo de caixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
